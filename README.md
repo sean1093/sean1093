@@ -3,6 +3,8 @@
 I'm Sean, a frontend / full-stack engineer based in Taipei, Taiwan, currently at Trend Micro.
 I mostly work with TypeScript and React, and I like building small, practical tools that solve everyday problems.
 
+**Tech stack:** TypeScript · React · Node.js · Google Apps Script · Firebase
+
 ### Projects
 
 **Libraries**
@@ -27,6 +29,11 @@ I mostly work with TypeScript and React, and I like building small, practical to
 | --- | --- |
 | [over-party-lab-chatbot](https://github.com/sean1093/over-party-lab-chatbot) | LINE chatbot for Over Party Lab, built with clasp and TypeScript on Google Apps Script. |
 | [jp-transit-bot](https://github.com/sean1093/jp-transit-bot) | LINE bot for querying Japanese transit information, powered by Google Apps Script and the Gemini API. |
+
+### Latest posts on Medium
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### Connect with me
 
