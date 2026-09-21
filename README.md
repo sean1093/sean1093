@@ -32,7 +32,9 @@ I mostly work with TypeScript and React, and I like building small, practical to
 
 ### Latest posts on Medium
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->- [AI 學習筆記 — Agentic Protocols 與傳輸層級的 AG-UI 協定](https://medium.com/%E6%8A%80%E8%A1%93%E7%AD%86%E8%A8%98/ai-%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98-agentic-protocols-%E8%88%87%E5%82%B3%E8%BC%B8%E5%B1%A4%E7%B4%9A%E7%9A%84-ag-ui-%E5%8D%94%E5%AE%9A-88389217ebd0?source=rss-d3ab76ebb4db------2) · 2026-46-02
+- [AI 學習筆記 — LLM 該擁有多少自由度？Generative UI 的三種實現方式](https://medium.com/%E6%8A%80%E8%A1%93%E7%AD%86%E8%A8%98/ai-%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98-llm-%E8%A9%B2%E6%93%81%E6%9C%89%E5%A4%9A%E5%B0%91%E8%87%AA%E7%94%B1%E5%BA%A6-generative-ui-%E7%9A%84%E4%B8%89%E7%A8%AE%E5%AF%A6%E7%8F%BE%E6%96%B9%E5%BC%8F-dcdce7b29a32?source=rss-d3ab76ebb4db------2) · 2026-17-09
+- [AI 學習筆記 — Generative UI 的起點](https://medium.com/%E6%8A%80%E8%A1%93%E7%AD%86%E8%A8%98/ai-%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98-generative-ui-%E7%9A%84%E8%B5%B7%E9%BB%9E-95ce6d3b3897?source=rss-d3ab76ebb4db------2) · 2026-34-08
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me
