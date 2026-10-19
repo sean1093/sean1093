@@ -8,7 +8,7 @@ I mostly work with TypeScript and React, and I like building small, practical to
 - [VeggieRadar](https://sean1093.github.io/VeggieRadar/) — today's Taiwan wholesale vegetable and fruit prices, with an estimated retail band
 - [LittleSteps](https://littlesteps-c6ab6.web.app/) — track your baby's developmental milestones
 - [Memori](https://memori-service.web.app/) — a live photo wall for events, filled from your guests' phones
-- [Mixtini](https://mixtini-co.web.app/) — everything about drinks in one place, with a cocktail search and a bar map
+- [Mixtini](https://mixtini-co.web.app/) — everything about drinks in Taiwan, with a cocktail search and a bar map
 - [Travel Buddy](https://sean1093.github.io/travel-buddy/) — get around Japan without speaking the language
 - [menpai](https://sean1093.github.io/menpai/) — turn a Taiwan address into Chunghwa Post English
 - [timeSolver](https://github.com/sean1093/timeSolver) — zero-dependency JavaScript utility for `Date` objects
